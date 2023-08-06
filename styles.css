@@ -1,0 +1,61 @@
+body {
+    background-color: rgb(0, 0, 0);
+}
+
+h1 {
+    color: gray;
+}
+
+#header2 {
+    color: rgb(0, 0, 0);
+    background-color: purple;
+    border-style: groove;
+    border-width: 5px;
+    border-radius: 2px;
+}
+div {
+    background-color: gray;
+    border-style: ridge; 
+    border-color: antiquewhite;
+    border-width: 2px;
+    border-radius: 4px;
+}
+
+table {
+    background-color: gray;
+    border-style: ridge; 
+    border-color:rgb(255, 255, 255);
+    border-width: 2px;
+    border-radius: 4px;
+}
+
+.form {
+    color: green;
+}
+
+ul:hover {
+    color: black;
+}
+
+a {
+   color: gray;
+   background-color: rgb(255, 255, 255);
+   border-style: dashed;
+}
+
+a:hover {
+    background-color: black;
+}
+
+
+.my-image {
+    width: 300px;
+    height: 300px;
+}
+
+.my-image2 {
+    width: 400px;
+    height: 280px;
+
+}
+
